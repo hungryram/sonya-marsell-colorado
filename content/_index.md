@@ -15,23 +15,50 @@ video_background:
   button_link: /listings
   enable_black_text: false
 slideshow:
-  - heading: Vesper Main Template
-    subtitle:
-    link_label: Read More
+  - heading: Find the perfect home in Colorado
+    subtitle: Your Colorado Real Estate Resource
+    link_label: /listings
     link: https://www.hungryram.com
-    image: >-
-      https://res.cloudinary.com/hungryram19/image/upload/v1630458883/templates/realestate2/shutterstock_12168997453_dgp9fa.jpg
+    image: /uploads/homes-in-colorado.jpg
     body:
     enable_white_text: false
 home_sections:
   - _type: text-and-image-section
     template: text-and-image
-    heading: test
-    body: test
-    button:
-    button_link:
-    image:
-    image_alt_tag:
+    heading: Sonya Marsell
+    body: >-
+      I love discovering new property and its potential for clients. I love to
+      help clients find their starter home, forever home, or investment.&nbsp;
+
+
+      I will work tirelessly for you, I am your trusted resource for contract
+      drafting, negotiating, and market research. I utilize a team of
+      professional service providers to assist my clients with buying and
+      selling needs, including landscaping, painters, designers, handymen, and
+      inspectors.
+
+
+      When I am not working, I enjoy spending time with my husband and four
+      children. Two of which are adults already… Wow\! where does the time go.
+      If I am not at a sports event for my children you can find me hiking with
+      my friends and Labradoodle, traveling to our neighboring towns such as
+      Ouray, Telluride, and Pagosa Springs. I also enjoy gardening, television,
+      cooking, eating out, bicycling, and having barbecues with friends and
+      family.
+    button: Get in Touch
+    button_link: /contact
+    image: /uploads/sonya-marsell.jpg
+    image_alt_tag: Sonya Marsell
     image_width: 400
+  - _type: text-and-contact-form
+    template: text-and-contact-form
+    heading: Your Trusted Real Estate Resource
+    body: >-
+      Have questions about the Colorado real estate market? Fill out the form
+      and I will reach out shortly\!
+    background_image: /uploads/neighborhood.jpg
+    form:
+      heading: Send a message
+      body:
 ---
 
