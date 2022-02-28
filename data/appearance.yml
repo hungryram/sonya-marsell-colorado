@@ -1,9 +1,9 @@
 branding:
-  site_title:
-  logo:
-  dark_logo:
+  site_title: Colorafo Ranch & Home Realty
+  logo: /uploads/colorado-ranch-and-home-realty.png
+  dark_logo: /uploads/colorado-ranch-and-home-realty.png
   favicon:
-  logo_width: 120
+  logo_width: 220
 icons:
   onefivetwo:
   onefourfour:
@@ -17,8 +17,8 @@ header:
   enable_white_text: true
   enable_white_text_top: true
   transparent_background: true
-  call_to_action_link: /contact
-  call_to_action_label: contact
+  call_to_action_link: /listings
+  call_to_action_label: Search Homes
   remove_call_to_action: false
   mobile_menu:
     background_color: '#222'
@@ -31,10 +31,10 @@ page_sidebar:
       template: custom-text
       body:
 colors:
-  button_background_color: '#3fb9be'
+  button_background_color: '#862721'
   button_text_color: '#ffffff'
-  links: '#3fb9be'
-  accent: '#3fb9be'
+  links: '#862721'
+  accent: '#862721'
   idx_title_background_color:
   idx_title_text_color: '#ffffff'
 search_field:
