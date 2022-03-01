@@ -11,9 +11,6 @@ menu:
   - name: Resources
     link:
     menu:
-      - name: Office
-        link: /offices/colorado-ranch-home-realty/
-        menu:
       - name: Home Valuation
         link: /home-valuation/
         menu:
