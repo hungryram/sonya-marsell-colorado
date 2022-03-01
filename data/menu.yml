@@ -1,7 +1,19 @@
 menu:
   - name: Home
-    link: 
+    link: https://vesper-module.netlify.app
+    menu:
+  - name: Buyers
+    link:
     menu:
   - name: Contact
     link: /contact
     menu:
+  - name: Resources
+    link:
+    menu:
+      - name: Office
+        link: /offices/colorado-ranch-home-realty/
+        menu:
+      - name: Home Valuation
+        link: /home-valuation/
+        menu:
