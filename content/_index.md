@@ -27,24 +27,23 @@ home_sections:
     template: text-and-image
     heading: Sonya Marsell
     body: >-
-      I love discovering new property and its potential for clients. I love to
-      help clients find their starter home, forever home, or investment.&nbsp;
+      Whether you are selling or buying -
 
 
-      I will work tirelessly for you, I am your trusted resource for contract
+      I will work tirelessly for you\! I am your trusted resource for contract
       drafting, negotiating, and market research. I utilize a team of
       professional service providers to assist my clients with buying and
       selling needs, including landscaping, painters, designers, handymen, and
-      inspectors.
+      inspectors
 
 
       When I am not working, I enjoy spending time with my husband and four
-      children. Two of which are adults already… Wow\! where does the time go.
+      children. Two of which are adults already… Wow\! Where does the time go?
       If I am not at a sports event for my children you can find me hiking with
-      my friends and Labradoodle, traveling to our neighboring towns such as
-      Ouray, Telluride, and Pagosa Springs. I also enjoy gardening, television,
-      cooking, eating out, bicycling, and having barbecues with friends and
-      family.
+      friends, family and labradoodle. I love traveling to our neighboring towns
+      such as Ouray, Telluride, and Pagosa Springs. I also enjoy gardening,
+      television, cooking, eating out, bicycling, and having barbecues with
+      friends and family.
     button: Get in Touch
     button_link: /contact
     image: /uploads/sonya-marsell.jpg
