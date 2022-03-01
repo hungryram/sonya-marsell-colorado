@@ -17,8 +17,8 @@ video_background:
 slideshow:
   - heading: Find the perfect home in Colorado
     subtitle: Your Colorado Real Estate Resource
-    link_label: /listings
-    link: https://www.hungryram.com
+    link_label: Search
+    link: /listings
     image: /uploads/homes-in-colorado.jpg
     body:
     enable_white_text: false
