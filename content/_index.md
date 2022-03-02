@@ -55,7 +55,7 @@ home_sections:
     body: >-
       Have questions about the Colorado real estate market? Fill out the form
       and I will reach out shortly\!
-    background_image: /uploads/outdoor-house.jpg
+    background_image: /uploads/lake-colorado.jpg
     form:
       heading: Send a message
       body:
