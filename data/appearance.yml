@@ -24,7 +24,7 @@ header:
     background_color: '#222'
     enable_white_text: true
 pages:
-  image: /uploads/colorado-mountains.jpg
+  image: /uploads/snow-mountain-colorado.jpg
 page_sidebar:
   sidebar:
     - _type: custom-text
