@@ -5,6 +5,9 @@ menu:
   - name: Buyers
     link:
     menu:
+  - name: Sellers
+    link: /home-valuation/
+    menu:
   - name: Contact
     link: /contact
     menu:
@@ -20,6 +23,3 @@ menu:
       - name: Schools
         link: /schools/
         menu:
-  - name: Sellers
-    link: /home-valuation/
-    menu:
