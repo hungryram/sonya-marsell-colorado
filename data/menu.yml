@@ -11,9 +11,6 @@ menu:
   - name: Resources
     link:
     menu:
-      - name: Home Valuation
-        link: /home-valuation/
-        menu:
       - name: Things to do
         link: /things-to-do/
         menu:
@@ -23,3 +20,6 @@ menu:
       - name: Schools
         link: /schools/
         menu:
+  - name: Sellers
+    link: /home-valuation/
+    menu:
