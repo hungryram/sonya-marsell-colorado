@@ -14,3 +14,12 @@ menu:
       - name: Home Valuation
         link: /home-valuation/
         menu:
+      - name: Things to do
+        link: /things-to-do/
+        menu:
+      - name: Airports
+        link: /airports/
+        menu:
+      - name: Schools
+        link: /schools/
+        menu:
