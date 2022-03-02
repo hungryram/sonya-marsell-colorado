@@ -19,7 +19,7 @@ slideshow:
     subtitle: Your Colorado Real Estate Resource
     link_label: Search
     link: /listings
-    image: /uploads/homes-in-colorado.jpg
+    image: /uploads/colorado-landscape.jpg
     body:
     enable_white_text: false
 home_sections:
