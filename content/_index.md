@@ -15,7 +15,7 @@ video_background:
   button_link: /listings
   enable_black_text: false
 slideshow:
-  - heading: Find the perfect home in Colorado
+  - heading: Find the perfect home in Southwest Colorado
     subtitle: Your Colorado Real Estate Resource
     link_label: Search
     link: /listings
