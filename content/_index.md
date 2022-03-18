@@ -51,8 +51,10 @@ home_sections:
     image_width: 400
   - _type: featured-idx-listings-carousel
     template: featured-idx-listings
-    heading: Office Listings
-    body:
+    heading: Featured Listings
+    body: >-
+      We have some amazing listings in southwest Colorado, view featured
+      listings from our office.
   - _type: text-and-contact-form
     template: text-and-contact-form
     heading: Your Trusted Real Estate Resource
