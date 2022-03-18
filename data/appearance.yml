@@ -17,7 +17,7 @@ header:
   enable_white_text: false
   enable_white_text_top: true
   transparent_background: false
-  call_to_action_link: /listings
+  call_to_action_link: https://search.idxhome.com/homesearch/164223
   call_to_action_label: Search Homes
   remove_call_to_action: false
   mobile_menu:
