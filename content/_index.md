@@ -49,6 +49,10 @@ home_sections:
     image: /uploads/sonya-marsell.jpg
     image_alt_tag: Sonya Marsell
     image_width: 400
+  - _type: featured-idx-listings-carousel
+    template: featured-idx-listings
+    heading: Office Listings
+    body:
   - _type: text-and-contact-form
     template: text-and-contact-form
     heading: Your Trusted Real Estate Resource
