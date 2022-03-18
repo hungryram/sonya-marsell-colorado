@@ -18,7 +18,7 @@ slideshow:
   - heading: Find the perfect home in Southwest Colorado
     subtitle: Your Colorado Real Estate Resource
     link_label: Search
-    link: /listings
+    link: https://search.idxhome.com/homesearch/164223
     image: /uploads/colorado-landscape.jpg
     body:
     enable_white_text: false
