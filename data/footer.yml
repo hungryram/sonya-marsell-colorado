@@ -2,7 +2,7 @@ additional_links:
   - link: /
     name: Home
   - name: Search Homes
-    link: /listings
+    link: https://search.idxhome.com/homesearch/164223
   - name: Home Valuation
     link: /home-valuation/
   - name: Contact
