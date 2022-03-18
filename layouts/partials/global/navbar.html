@@ -110,7 +110,7 @@
                     alt="{{ .Site.Data.profile.company_name }} logo"
                     width="{{ $navbar.logo_width }}" class="dark-logo">
                 {{ else }}
-                <img src="{{ $navbar.logo }}" alt="{{ .Site.Data.profile.company_name }} logo"
+                <img src="{{ $navbar.logo | absURL }}" alt="{{ .Site.Data.profile.company_name }} logo"
                     width="{{ $navbar.logo_width }}">
                 {{ end }}
             </a>
