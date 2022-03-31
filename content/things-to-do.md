@@ -10,8 +10,6 @@ meta_description = ""
 
 ## Find different attractions in Southwest Colorado.
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nxWQnkKi87w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
 Hidden Gems Southwest Colorado <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --><a target="_blank" rel="noopener" href="https://www.colorado.com/colo-road-trips/hidden-gems-southwest-colorado">https://www.colorado.com/colo-road-trips/hidden-gems-southwest-colorado</a><!-- raw HTML omitted --> <!-- raw HTML omitted -->
 
 Mesa Verde <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --><a target="_blank" rel="noopener" href="https://www.nps.gov/meve/index.htm">https://www.nps.gov/meve/index.htm</a><!-- raw HTML omitted --> <!-- raw HTML omitted -->
