@@ -2,7 +2,7 @@ branding:
   site_title: Colorafo Ranch & Home Realty
   logo: /uploads/colorado-ranch-and-home-realty.png
   dark_logo: /uploads/colorado-ranch-and-home-realty.png
-  favicon:
+  favicon: /uploads/favicon.png
   logo_width: 220
 icons:
   onefivetwo:
